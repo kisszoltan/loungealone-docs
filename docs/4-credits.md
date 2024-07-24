@@ -25,7 +25,10 @@ Every lounge owner can individually set (and change anytime) the price of 10 cre
 
 ## How much does it cost to ask one question?
 
-If you ask a question rated 1, but the lounge host gives the best answer ever, then it costs 10 credits. So maximum 5 credits for the question, and 5 credits for the answer. When raising the question the exact price in credits is substracted from your balance, in additionally to 5 credits which is substracted in advance for the answer. If the answer turns out to cost less than 5 credits then the difference is sent back to your balance.
+If you ask a question rated 1, but the lounge host gives the best answer ever, then it costs 10 credits. So maximum 5 credits for the question, and 5 credits for the answer. When raising the question the exact price of the question is substracted from your credit balance, in additionally to 5 credits which is substracted in advance for the answer. If the answer turns out to cost less than 5 credits then the difference is sent back to your balance.
+
+{: .highlight .fs-3 }
+One question-answer pair can cost maximum 10 credits, but if you ask great questions, or the answer what you received is not the best, then you will have extra credits for your next question(s). Consider this as a compensation for an incomplete answer or reward for a good question.
 
 ## Can I sell credits or use in different lounges?
 
