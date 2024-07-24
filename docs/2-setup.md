@@ -17,7 +17,7 @@ By default everything is set so nothing is mandatory to define in addition to us
 
 {: .warning .fs-3 }
 
-Default user profiles are not listed on lounge browser page, and users cannot buy credits or ask questions from users with default profile. To enable "influencer" features (like listing on lounge browser page, and enable questioning feature) [setup your Payments information](#Payments).
+Default user profiles are not listed on lounge browser page, and users cannot buy credits or ask questions from users with default profile. To enable "influencer" features (like listing on lounge browser page, and enable questioning feature) [setup your Payments information](#payments).
 
 ## User information
 
@@ -35,7 +35,13 @@ In early stages social media profiles are not possible to link to your profile. 
 
 To enable other users to raise question in your lounge you have to connect your PayPal account and define price for your credits.
 
-PayPal account can simply be linked to your profile by clicking the "Connect your PayPal account" button on your settings page and follow the instructions from PayPal on the screen. Connecting your PayPal account does not cost anything, no transaction are initiated during the process.
+PayPal account can simply be linked to your profile by clicking the "Connect your PayPal account" button on your settings page and follow the instructions from PayPal on the screen.
+
+{: .warning .fs-3 }
+In Beta Testing Phase connecting PayPal is only available for selected users, so contact developers for permission.
+
+{: .highlight .fs-3 }
+Connecting your PayPal account does not cost anything, no transactions are initiated during the process.
 
 When successfully connected, your PayPal email address will be show next to the button. Your email address is kept by the system only, it is not visible for other users.
 
